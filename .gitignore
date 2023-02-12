@@ -1,0 +1,5 @@
+dist/
+build/
+/pyinstaller.exe
+/tt.py
+/.gitignore.gitignore
